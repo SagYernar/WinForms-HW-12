@@ -1,0 +1,9 @@
+C:\Users\Ернар\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Ернар\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Ернар\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Ернар\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\HomeWork_WF.Menu.resources
+C:\Users\Ернар\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Ернар\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\HomeWork_WF.csproj.GenerateResource.Cache
+C:\Users\Ернар\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\HomeWork_WF.csproj.CoreCompileInputs.cache
+C:\Users\Ернар\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Ернар\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
